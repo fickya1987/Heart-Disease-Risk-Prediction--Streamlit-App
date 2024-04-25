@@ -1,6 +1,8 @@
 # Heart_Disease_Risk_Prediction - Streamlit_App
 Heart Disease Risk Prediction project utilizing Gradient Boosting Machine Learning model trained on Kaggle dataset with data preprocessing techniques and Integrated into a user-friendly web application using Streamlit for easy prediction access.
 
+[Dataset Link](/kaggle/input/cardiovascular-diseases-risk-prediction-dataset)
+
 ## Project Overview
 This project aims to develop a machine learning model to predict the risk of heart disease based on various parameters such as weight, height, alcohol consumption, dietary habits (fried food and green vegetables), and medical history (smoking, depression, diabetes, cancer). The dataset used for this project is obtained from Kaggle and contains both numerical and categorical data.
 
