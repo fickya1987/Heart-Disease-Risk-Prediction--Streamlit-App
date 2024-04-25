@@ -5,11 +5,11 @@ Heart Disease Risk Prediction project utilizing Gradient Boosting Machine Learni
 This project aims to develop a machine learning model to predict the risk of heart disease based on various parameters such as weight, height, alcohol consumption, dietary habits (fried food and green vegetables), and medical history (smoking, depression, diabetes, cancer). The dataset used for this project is obtained from Kaggle and contains both numerical and categorical data.
 
 
-# Business Problem Addressed
+## Business Problem Addressed
 Heart disease is a major health concern worldwide, and early detection plays a crucial role in prevention and management. By developing a predictive model, healthcare professionals and individuals can assess the risk of heart disease based on personal attributes and lifestyle factors. This can facilitate proactive interventions and lifestyle modifications to mitigate the risk of cardiovascular issues.
 
 
-# Project Implementation
+## Project Implementation
 Exploratory Data Analysis (EDA): Conducted thorough analysis of the dataset to understand the distribution of features, identify correlations, and gain insights into potential predictors of heart disease.
 - Data Preprocessing:
 Utilized label encoding to convert categorical variables into numerical format.
@@ -25,7 +25,7 @@ Developed a user-friendly web application using Streamlit framework.
 Designed the interface to allow users to input their personal attributes and receive the predicted risk of heart disease.
 
 
-# How to Run the Web Application
+## How to Run the Web Application
 - Clone the repository to your local machine.
 - Install the required dependencies listed in the requirements.txt file.
 - Navigate to the directory containing the source code.
