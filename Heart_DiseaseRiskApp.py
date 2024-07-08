@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 
 # Load the trained model
-Heart_disease_model = pickle.load(open('/Users/kamayanirai/Downloads/Cvd_prediction.sav', 'rb'))
+Heart_disease_model = pickle.load(open('Cvd_prediction.sav', 'rb'))
 
 # Mapping for General Health options
 general_health_mapping = {'Excellent': 0, 'Fair': 1, 'Good': 2, 'Poor': 3, 'Very Good': 4}
